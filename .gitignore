@@ -1,0 +1,18 @@
+# Pasta do banco de dados vetorial gerada pelo código
+chroma_db/
+*.db
+*.sqlite3
+
+# Ficheiros temporários e de cache do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Configurações de IDEs (PyCharm / VS Code)
+.idea/
+.vscode/
+
+# Ficheiros de credenciais e variáveis de ambiente
+.env
